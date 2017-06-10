@@ -1,0 +1,8 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/.idea/
+/project/project/
+/project/target/
+/target/
+/GoTutorial.iml
