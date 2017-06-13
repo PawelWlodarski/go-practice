@@ -24,4 +24,7 @@ func main() {
 	//var d1 Degree = 30
 	//fmt.Println("money = ",(m1+d1))
 
+	m3 := Money(30)
+	fmt.Println("explicit money : ",m3)
+
 }
