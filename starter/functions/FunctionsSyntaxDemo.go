@@ -20,7 +20,7 @@ type Celsius int
 type Kelvin int
 
 func celsiusToKelvin(c Celsius) Kelvin{
-	return Kelvin(c - 273)
+	return Kelvin(c + 273)
 }
 
 //HIGH ORDER
